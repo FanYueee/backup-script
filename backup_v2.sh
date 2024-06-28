@@ -1,3 +1,6 @@
+source /etc/profile
+source ~/.bash_profile
+
 # 節點名稱
 name="SG-M1"
 
